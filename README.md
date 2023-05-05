@@ -35,7 +35,6 @@
       <img align="center" src="img/java.png" alt="Java" style="width:65px;">
       <img align="center" src="img/sh.png" alt="Shell" style="width:50px;">&nbsp&nbsp
       <img align="center" src="img/php.png" alt="PHP" style="width:50px;">&nbsp&nbsp
-      <img align="center" src="img/assembly.png" alt="Assembly" style="width:35px;">
       <img align="center" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash original.svg" />
       <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
       <br>
