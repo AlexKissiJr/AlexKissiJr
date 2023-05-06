@@ -35,8 +35,16 @@
       <img align="center" src="img/java.png" alt="Java" style="width:65px;">
       <img align="center" src="img/sh.png" alt="Shell" style="width:50px;">&nbsp&nbsp
       <img align="center" src="img/php.png" alt="PHP" style="width:50px;">&nbsp&nbsp
-      <img align="center" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash original.svg" />
+      <img align="center" alt="Bash" width="30px" style="padding-right:10px;"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash original.svg" />
       <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+       <img align="center" alt="C" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+       <img align="center" alt="Swift" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+       <img align="center" alt="Objective-c" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" />
+       <img align="center" alt="C#" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <br>
       <br>
       <img align="center" src="img/HTML.png" alt="HTML" style="width:45px;">&nbsp 
@@ -65,6 +73,11 @@
       <img align="center" src="img/postgresql.png" alt="PostgreSQL" style="width:55px;">&nbsp&nbsp
       <img align="center" src="img/docker.png" alt="Docker" style="width:55px;">&nbsp&nbsp
       <img align="center" src="img/clickup.png" alt="ClickUp" style="width:60px;">&nbsp&nbsp
+      <img align="center" alt="Xcode" width="30px" style="padding-right:10px;"                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+      <img align="center" alt="linux" width="30px" style="padding-right:10px;"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img align="center" alt="apple" width="30px" style="padding-right:10px;"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
       <br>
       <br>
       <img align="center" src="img/jira.png" alt="Jira" style="width:85px;">&nbsp&nbsp
