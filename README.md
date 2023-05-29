@@ -2,7 +2,7 @@
 <div style="max-width:100%;">
   <h1 align="center"> Hi, I'm Alex Kissi Jr.  👋</h1>
   <h2>About me...</h2>
-  I am passionate software engineer with over 7 years of experience as a lead developer, focusing on creating user-centric applications with intuitive interfaces and maintainable source code. Adept at problem-solving and constantly learning new technologies I'm passionate about learning new things, developing new skills and participating in innovative projects. 
+  I am passionate software engineer with over 8 years of experience as a lead developer, focusing on creating user-centric applications with intuitive interfaces and maintainable source code. Adept at problem-solving and constantly learning new technologies I'm passionate about learning new things, developing new skills and participating in innovative projects. 
 </div>
 <div>
   <p>
